@@ -1,5 +1,5 @@
 ---
-title: My Portfolio
+title: SJ about SJ
 name: landing.md
 image: me.jpg
 ---
